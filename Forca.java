@@ -101,5 +101,6 @@ public class Forca {
                     System.out.println();
                 }
             }while (true);
+        leitor.close();
     }
 }
