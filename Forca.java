@@ -8,7 +8,7 @@ public class Forca {
         Scanner leitor = new Scanner(System.in);
         char letra;
         String palavra, letrasD = "", letras = "";
-        boolean verif, status = false;
+        boolean verif;
         int cont = 0, contp;
             for (int i = 0; i < 100; i++) {
                 System.out.println();
